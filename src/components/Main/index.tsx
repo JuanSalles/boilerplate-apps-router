@@ -1,6 +1,6 @@
 const Main = () => (
   <main>
-    <h1>React Avançadfedgtedfgo</h1>
+    <h1>React Avançadfedgterytrtyrtyrtdfgo</h1>
   </main>
 )
 
